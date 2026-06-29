@@ -34,11 +34,12 @@
       * Jupiter notebook *
      
       ** Key Insight **
-      ** Most Amazon products are price belowe $50 **
-      ** Best seller products receive significantly more review and purchases than non best sellers **
-      ** Customer reviews have the strongest positive relationship with monthly purchases **
-      ** Product ratings alone have little influence on purchase volume **
-      ** Product availability is consentrated within a few dominant catagories **
+      
+      * Most Amazon products are price belowe $50 *
+      * Best seller products receive significantly more review and purchases than non best sellers *
+      * Customer reviews have the strongest positive relationship with monthly purchases *
+      * Product ratings alone have little influence on purchase volume *
+      * Product availability is consentrated within a few dominant catagories *
 
       ** AUTHOR **
       * Chika *
