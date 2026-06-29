@@ -17,5 +17,6 @@
   * Purchase in the Last Month *
 
     ** Objectives **
-  ** Explore Product Pricing Patterns **
+    
+  * Explore Product Pricing Patterns *
     
